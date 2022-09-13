@@ -52,3 +52,4 @@ docs/*.md
 docs/api
 site/
 mkdocs.yml
+bidaf-elmo-model-2020.03.19.tar.gz
